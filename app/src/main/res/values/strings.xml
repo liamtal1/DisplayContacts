@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">DisplayContacts</string>
+    <string name="element_text" translatable="false">Element</string>
+    <string name="grid_layout_manager" translatable="false">Grid Layout Manager</string>
+    <string name="linear_layout_manager" translatable="false">Linear Layout Manager</string>
+    <string name="name_line">Name: %1$s</string>
+    <string name="phone_number_line">Phone Number: </string>
+</resources>
